@@ -15,4 +15,6 @@ console.log(typeof name);
 const PI=3.1416;
 console.log(PI);
 console.log(typeof PI);
-PI=3.15;
+//PI=3.15;//
+
+

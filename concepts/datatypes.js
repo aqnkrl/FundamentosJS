@@ -11,7 +11,7 @@ console.log (typeof null);
 console.log(typeof undefined);
 console.log([1, 2, 3]);
 console.log( typeof[1, 2, 3]);
-console.log({nombre: "Juan"});
+console.log({nombre: "Juan"});//diccionario
 console.log( typeof {nombre: "Juan"});
 
 
